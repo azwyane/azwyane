@@ -4,7 +4,7 @@ I have a computer engineering background with around 3 years of experience as a 
 
 Here are some of my skills and interests:
 
-- Programming languages: Python, Js, Golang
+- Programming languages: Python, Js, Golang, Rust
 - Software engineering: Agile development, unit testing, CI/CD
 - Cloud computing: AWS, Azure, GCP
 - Data science: Machine learning, Computer Vision
